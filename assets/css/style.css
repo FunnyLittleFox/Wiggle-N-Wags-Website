@@ -1,0 +1,16 @@
+html, 
+
+Head {
+    text-align: center;
+}
+body{
+    background: lightsteelblue;
+}
+main {
+    text-align: center;
+}
+button {
+
+    text-align: center;
+    margin-right: 175px;
+}
